@@ -1,0 +1,2 @@
+Olá bem vindo a mais um projeto que eu desenvolvi usando HTML, CSS e JavaScript.
+Esse projeto utilizei de algo mais avançado do JavaScript, coisas que ainda nao aprendi, então peguei algumas coisas da net e copiei um pouco dos tutoriais do YouTube.
